@@ -1,0 +1,14 @@
+# Compiled C files
+*.o
+*.out
+
+# Executable files
+Welcome
+Variables
+
+# Temporary files
+*.tmp
+*~
+
+# VS Code local settings
+.vscode/
