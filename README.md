@@ -30,10 +30,7 @@ becoming an Embedded Firmware Engineer.
 
 ## Daily Learning Progress
 
-### Day 1
-- Learned computer fundamentals
-- Studied CPU, ALU and registers
-- Created and executed my first C program
+
 
 ## Objective
 
