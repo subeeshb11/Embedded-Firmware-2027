@@ -1,4 +1,4 @@
-// Bit manipulation Learning with LED Example.
+// Bit Manipulation Learning with LED Example.
 
 #include <stdio.h>
 #include <stdint.h>
