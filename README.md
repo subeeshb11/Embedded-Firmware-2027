@@ -1,6 +1,7 @@
 
 # Embedded Firmware Engineering
 
+
 ## About This Repository
 
 This repository documents my journey towards
@@ -29,8 +30,6 @@ becoming an Embedded Firmware Engineer.
 - GitHub
 
 ## Daily Learning Progress
-
-
 
 ## Objective
 
