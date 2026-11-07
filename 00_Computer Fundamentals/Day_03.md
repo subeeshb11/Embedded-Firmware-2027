@@ -25,4 +25,4 @@ TOPIC:Number Systems Part -2
 
 4. Revision:
 
-  Praticed Numbers Conversion ( Binary To Decimal / Decimal To Binary / Binary To Hexadecimal / Hexadecimal To Binary / Octal To Decimal / Decimal To Octal ).    
+   - Praticed Numbers Conversion ( Binary To Decimal / Decimal To Binary / Binary To Hexadecimal / Hexadecimal To Binary / Octal To Decimal / Decimal To Octal ).    
